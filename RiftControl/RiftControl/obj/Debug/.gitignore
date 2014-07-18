@@ -1,0 +1,10 @@
+TemporaryGeneratedFile*
+*.cache
+*.baml
+*.g.cs
+*.g.i.cs
+*.csproj.FileListAbsolute.txt
+*.exe
+*.g.resources
+*.pdb
+*.Properties.Resources.resources
